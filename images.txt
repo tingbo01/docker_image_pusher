@@ -6,3 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nvcr.io/nvidia/tao/tao-toolkit:5.3.0-pyt
 nvcr.io/nvidia/tao/tao-toolkit:5.0.0-tf2.11.0
+nvcr.io/nvidia/deepstream:7.0-samples-multiarch
+nvcr.io/nvidia/deepstream:7.0-triton-multiarch
+nvcr.io/nvidia/jps/deepstream:7.0-jps-v1.1.1
