@@ -10,3 +10,13 @@ nvcr.io/nvidia/deepstream:7.0-samples-multiarch
 nvcr.io/nvidia/deepstream:7.0-triton-multiarch
 nvcr.io/nvidia/jps/deepstream:7.0-jps-v1.1.1
 nvcr.io/nvidia/isaac-sim:4.0.0
+nvcr.io/nvidia/jetson-voice:r32.4.2
+nvcr.io/nvidia/jetson-gaze:r32.4.2
+nvcr.io/nvidia/jetson-pose:r32.4.2
+nvcr.io/nvidia/jetson-linux-flash-x86:r35.1.0
+nvcr.io/nvidia/jetson-linux-flash-x86:r35.4.1
+nvcr.io/nvidia/jetson-linux-flash-x86:r35.3.1
+nvcr.io/nvidia/jetson-linux-flash-x86:r35.2.1
+nvcr.io/nvidia/jetson-linux-flash-x86:r36.2
+nvcr.io/nvidia/jps/vlm_infer:1.1.0
+nvcr.io/nvidia/jps/zero_shot_detection_infer:1.1.0
