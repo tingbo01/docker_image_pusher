@@ -1,2 +1,2 @@
-nvcr.io/nvidia/jetson-gaze:r32.4.2
+nvcr.io/nvidia/jetson-pose:r32.4.2
 
