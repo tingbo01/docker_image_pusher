@@ -1,17 +1,8 @@
-nvcr.io/nvidia/l4t-base:r36.2.0
-nvcr.io/nvidia/l4t-base:35.3.1
-nvcr.io/nvidia/l4t-base:35.4.1
-nvcr.io/nvidia/l4t-base:r35.2.1
-nvcr.io/nvidia/l4t-base:r35.1.0
-nvcr.io/nvidia/l4t-base:r34.1.1
-nvcr.io/nvidia/l4t-base:r34.1
-nvcr.io/nvidia/l4t-base:r32.7.1
-nvcr.io/nvidia/l4t-base:r32.6.1
-nvcr.io/nvidia/l4t-base:r32.5.0
-nvcr.io/nvidia/l4t-base:r32.4.4
-nvcr.io/nvidia/l4t-base:r32.4.3
-nvcr.io/nvidia/l4t-base:r32.4.2
-nvcr.io/nvidia/l4t-base:r32.3.1
-nvcr.io/nvidia/l4t-base:r32.2.1
-nvcr.io/nvidia/l4t-base:r32.2
+nvcr.io/nvidia/l4t-jetpack:r36.3.0
+nvcr.io/nvidia/l4t-jetpack:r36.2.0
+nvcr.io/nvidia/l4t-jetpack:r35.4.1
+nvcr.io/nvidia/l4t-jetpack:r35.2.1
+nvcr.io/nvidia/l4t-jetpack:r35.1.0
+nvcr.io/nvidia/l4t-jetpack:r35.3.1
+nvcr.io/nvidia/isaac/nova_carter_bringup:release_3.0-aarch64
 
