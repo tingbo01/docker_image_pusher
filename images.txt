@@ -1,2 +1,6 @@
-nvcr.io/nvidia/jetson-pose:r32.4.2
+nvcr.io/nvidia/jetson-linux-flash-x86:r35.1.0
+nvcr.io/nvidia/jetson-linux-flash-x86:r35.4.1
+nvcr.io/nvidia/jetson-linux-flash-x86:r35.3.1
+nvcr.io/nvidia/jetson-linux-flash-x86:r35.2.1
+nvcr.io/nvidia/jetson-linux-flash-x86:r36.2
 
