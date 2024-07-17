@@ -1,2 +1,2 @@
-nvcr.io/nvidia/jps/vlm_infer:1.1.0
+nvcr.io/nvidia/jetson-gaze:r32.4.2
 
